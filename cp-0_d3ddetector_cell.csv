@@ -1,4 +1,4 @@
-Cell IdX,Cell IdY,Cell IdZ,X [mm],Y [mm],Z [mm],Dose,FieldScalingFactor
+Cell IdX,Cell IdY,Cell IdZ,X [mm],Y [mm],Z [mm],Dose [Gy],FieldScalingFactor
 0,1,1,-18,-6,18,0.00341587,0.11964
 3,1,1,18,-6,18,4.00098e-05,0.119782
 1,0,1,-6,-18,18,0.0039528,0.165187
